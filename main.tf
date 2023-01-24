@@ -23,3 +23,4 @@ module "networking" {
   location                = var.location
   vnet_address_spacing    = var.vnet_address_spacing
   subnet_address_prefixes = var.subnet_address_prefixes
+}
